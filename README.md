@@ -1,5 +1,5 @@
 # ISTQB-Certificates
-ISTQB Certificates of mine
+This Repository contains my ISTQB Certificates.
 
 ## Certificates
 Level | Skill | Certificate URL
